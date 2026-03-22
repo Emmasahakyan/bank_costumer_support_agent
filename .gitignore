@@ -361,3 +361,12 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Python
+venv/
+.env
+*.env
+
+# Project specific
+chroma_db/
+data/
