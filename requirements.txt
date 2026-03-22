@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-huggingface
+langchain-classic
+langgraph
+selenium
+webdriver-manager
+beautifulsoup4
+chromadb
+sentence-transformers
+python-dotenv
+pydantic
+requests
