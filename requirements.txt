@@ -1,10 +1,10 @@
 langchain
 langchain-core
 langchain-community
-langchain-google-genai
 langchain-huggingface
 langchain-classic
 langgraph
+langchain-groq
 selenium
 webdriver-manager
 beautifulsoup4
@@ -13,3 +13,8 @@ sentence-transformers
 python-dotenv
 pydantic
 requests
+SpeechRecognition
+pyaudio
+pygame
+openai
+langchain-text-splitters
