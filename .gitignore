@@ -370,3 +370,5 @@ venv/
 # Project specific
 chroma_db/
 data/
+*.pyproj
+*.sln
