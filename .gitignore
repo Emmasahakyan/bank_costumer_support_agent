@@ -372,3 +372,4 @@ chroma_db/
 data/
 *.pyproj
 *.sln
+.gitattributes
